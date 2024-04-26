@@ -12,7 +12,7 @@ import random
 import pickle
 from scipy.spatial import distance
 import pandas as pd
-temp_data_file = r"D:\Data\Research\PUPPI\WJetsToQQ_HT-800toInf/"
+temp_data_file = r"D:\Data\Research\PUPPI\ZJetsToQQ_HT-800toInf/"
 np.random.seed(23)
 
 
